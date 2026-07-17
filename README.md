@@ -28,5 +28,4 @@ This application allows users to build a custom investment portfolio and dynamic
 1. **Clone the Repository:**
    Clone this project to your local machine using the official InternGrow naming convention:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/InternGrow_PortfolioTracker.git](https://github.com/YOUR_GITHUB_USERNAME/InternGrow_PortfolioTracker.git)
-   cd InternGrow_PortfolioTracker
+   git clone [https://github.com/muneebyaseen134-rgb/InternGrow_-Real_Time_Stock_Portfolio_Tracker.git]
